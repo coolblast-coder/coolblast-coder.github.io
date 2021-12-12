@@ -204,10 +204,7 @@
             text-align: center;
             
         }
-        nav ul li:hover {
-            border: 1px solid white;
-            
-        }
+   
         nav a {
             color: white !important;
         }
